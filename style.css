@@ -1,0 +1,27 @@
+ul {
+    list-style-type: none;
+    padding: 0;
+    border-width: 20%;
+    float: left;
+    position: fixed;
+    
+  
+
+  }
+
+  li a{
+      display: block;
+      color: #000;
+      padding: 8px 16px;
+      text-decoration: none;
+      border: solid black 0.5px;
+      color: #4d4e53;
+  }
+
+  .content{
+      width: 70%;
+      float: right;
+      padding: 0;
+      
+  }
+ 
